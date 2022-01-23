@@ -4,7 +4,6 @@ import CssBaseline from '@mui/material/CssBaseline';
 import BottomNavigation from '@mui/material/BottomNavigation';
 import BottomNavigationAction from '@mui/material/BottomNavigationAction';
 import FavoriteIcon from '@mui/icons-material/Favorite';
-import ArchiveIcon from '@mui/icons-material/Archive';
 import Paper from '@mui/material/Paper';
 import { Home, Restore } from '@mui/icons-material';
 

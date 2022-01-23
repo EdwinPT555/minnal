@@ -1,7 +1,6 @@
 import React from 'react';
 import TopNavigation from './COMPONENTS/TopNavigation';
 import BottomNavigation from './COMPONENTS/BottomNavigation';
-import Corousel from './COMPONENTS/Corousel';
 import Container from './PAGES/Container';
 ;
 
